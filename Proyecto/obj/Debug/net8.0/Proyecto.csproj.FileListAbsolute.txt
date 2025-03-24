@@ -1,0 +1,5 @@
+c:\Users\balle\OneDrive\Desktop\Proyecto\Proyecto\obj\Debug\net8.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\balle\OneDrive\Desktop\Proyecto\Proyecto\obj\Debug\net8.0\Proyecto.AssemblyInfoInputs.cache
+c:\Users\balle\OneDrive\Desktop\Proyecto\Proyecto\obj\Debug\net8.0\Proyecto.AssemblyInfo.cs
+c:\Users\balle\OneDrive\Desktop\Proyecto\Proyecto\obj\Debug\net8.0\Proyecto.csproj.CoreCompileInputs.cache
+c:\Users\balle\OneDrive\Desktop\Proyecto\Proyecto\obj\Debug\net8.0\Proyecto.MvcApplicationPartsAssemblyInfo.cache
